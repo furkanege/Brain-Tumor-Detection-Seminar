@@ -1,4 +1,4 @@
-# 🎓 Graduate Seminar – Furkan Ege  
+# 🎓 Graduate Seminar – Furkan Ege
 **Brain Tumor Detection Using Convolutional Neural Networks (CNN)**  
 Aydın Adnan Menderes University – M.Sc. Seminar  
 Author: Furkan Ege
@@ -12,13 +12,13 @@ Master's in Management Information Systems at **Aydın Adnan Menderes University
 
 The seminar focuses on:
 
-- 🧠 Brain tumor detection using CNN-based image classification  
-- 🩻 MRI image preprocessing and dataset structure  
-- 📊 Performance metrics (accuracy, loss)  
-- 🧮 Comparison of CNN architectures used in medical imaging  
-- 🤖 Applications and future directions in AI-driven medical diagnosis  
+- 🧠 CNN-based brain tumor classification  
+- 🩻 MRI preprocessing and dataset characteristics  
+- 🧮 Evaluation metrics (accuracy & loss)  
+- 📚 Comparison of widely used CNN architectures  
+- 🤖 Future applications of AI in medical decision support systems  
 
-The full seminar document is provided as PDF in this repository.  
+The full seminar document is provided as a **PDF**.  
 **Seminar language: Turkish.**
 
 ---
@@ -29,48 +29,58 @@ The complete seminar text is included here:
 
 ➡️ **seminar.pdf**
 
-The document presents the theoretical background, literature review, methodology and  
-model evaluation related to CNN-based brain tumor classification, covering more than ten  
-well-known architectures such as VGG16, ResNet50, MobileNetV2, InceptionV3, DenseNet and more.
+The document covers theoretical background, literature review, methodology, data processing steps,  
+model training workflow, and evaluation across multiple CNN architectures including:
+
+- VGG16  
+- ResNet50  
+- MobileNetV2  
+- InceptionV3  
+- DenseNet121  
+- Xception  
+- + additional variants  
 
 ---
 
-## 🧪 Code Notebook
+## 📁 Code Notebook
 
-The deep learning application used in the seminar is provided below:
+The deep learning application used in the seminar is available as:
 
-➡️ **furkan-ege-grad-seminar-brain-tumor-seg.ipynb**
+➡️ **notebooks/brain_tumor_classification.ipynb**
 
-You can also view the original version on Kaggle:  
-https://www.kaggle.com/code/furkanege/furkan-ege-grad-seminar-brain-tumor-seg
+You may also view the original Kaggle notebook here:  
+https://www.kaggle.com/code/furkanege/brain-tumor-classification
+
 ---
 
 ## 🧪 Topics Covered
 
 - Convolutional Neural Networks (CNN)  
-- Medical image classification  
-- MRI characteristics and preprocessing  
-- Popular deep learning architectures (VGG, ResNet, Inception, DenseNet, Xception, etc.)  
-- Model training workflow  
-- Accuracy & loss metrics  
-- Challenges & limitations in medical AI  
-- Ethical considerations in medical decision support systems  
+- MRI-based image classification  
+- Dataset preprocessing (resizing, normalization, augmentation)  
+- Training/validation workflow  
+- Accuracy & loss evaluation  
+- Overfitting and model generalization  
+- Ethical considerations in medical AI  
+- Limitations of CNN-based medical diagnosis systems  
 
-*(Note: This seminar does not cover U-Net, SegNet or segmentation models.)*
+*Note: This seminar focuses on classification, not segmentation.  
+U-Net and SegNet architectures are not used in this study.*
 
 ---
 
 ## 📚 Citation
 
-If you reference this work, please cite:
+### APA (7th Edition)
+Ege, F. (2023). *Brain tumor detection using CNN architectures*. Graduate Seminar, Aydın Adnan Menderes University.
 
-- APA 7: 
-**Ege, F. (2023). Brain tumor detection using CNN architectures. Graduate Seminar, Aydın Adnan Menderes University.**
-- IEEE: 
-**F. Ege, “Brain Tumor Detection Using CNN Architectures,” Graduate Seminar, Aydın Adnan Menderes University, 2023.**
-- MLA: 
-**Ege, Furkan. Brain Tumor Detection Using CNN Architectures. Graduate Seminar, Aydın Adnan Menderes University, 2023.**
-- BibTeX: 
+### IEEE
+F. Ege, “Brain Tumor Detection Using CNN Architectures,” Graduate Seminar, Aydın Adnan Menderes University, 2023.
+
+### MLA
+Ege, Furkan. *Brain Tumor Detection Using CNN Architectures*. Graduate Seminar, Aydın Adnan Menderes University, 2023.
+
+### BibTeX
 @misc{ege2023seminar,
   author       = {Ege, Furkan},
   title        = {Brain Tumor Detection Using CNN Architectures},
@@ -92,5 +102,5 @@ Boston, MA, USA
 
 ## 📄 License
 
-This academic work is shared publicly for educational and research purposes.  
+This academic work is provided for educational and research purposes.  
 All rights belong to **Furkan Ege**, unless otherwise noted.
