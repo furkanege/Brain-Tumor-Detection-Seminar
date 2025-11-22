@@ -39,7 +39,7 @@ well-known architectures such as VGG16, ResNet50, MobileNetV2, InceptionV3, Dens
 
 The deep learning application used in the seminar is provided below:
 
-➡️ **brain_tumor_classification.ipynb**
+➡️ **furkan-ege-grad-seminar-brain-tumor-seg.ipynb**
 
 You can also view the original version on Kaggle:  
 https://www.kaggle.com/code/furkanege/furkan-ege-grad-seminar-brain-tumor-seg
