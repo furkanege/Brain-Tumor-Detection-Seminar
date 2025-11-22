@@ -54,13 +54,13 @@ well-known architectures such as VGG16, ResNet50, MobileNetV2, InceptionV3, Dens
 
 If you reference this work, please cite:
 
-APA 7
+- APA 7
 **Ege, F. (2023). Brain tumor detection using CNN architectures. Graduate Seminar, Aydın Adnan Menderes University.**
-IEEE
+- IEEE
 **F. Ege, “Brain Tumor Detection Using CNN Architectures,” Graduate Seminar, Aydın Adnan Menderes University, 2023.**
-MLA
+- MLA
 **Ege, Furkan. Brain Tumor Detection Using CNN Architectures. Graduate Seminar, Aydın Adnan Menderes University, 2023.**
-BibTeX
+- BibTeX
 @misc{ege2023seminar,
   author       = {Ege, Furkan},
   title        = {Brain Tumor Detection Using CNN Architectures},
